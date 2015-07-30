@@ -6,4 +6,7 @@ This is cool :P
 Ok good
 What now
 Keep checking
+<<<<<<< HEAD
 Why is it changing from one end and not from another
+=======
+>>>>>>> origin/master1
